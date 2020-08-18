@@ -61,3 +61,4 @@ You can freely create one [here](https://account.microsoft.com/).
 ### Consuming the package from NuGet Manager
 
 In the NuGet package manager, simply search for the NuGet package name. Click install.
+
