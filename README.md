@@ -18,7 +18,7 @@ Very simple, it’s a container with components inside, designed for re-usabilit
 
 ![The flow of packages between creators, hosts, and consumers](/images/nuget-roles-img.png)
 
-<center>The flow of packages between creators, hosts, and consumers (Source – Microsoft Docs) </center>
+The flow of packages between creators, hosts, and consumers (Source – Microsoft Docs) 
 
 ## Getting Started 
 
@@ -32,7 +32,7 @@ Here, we describe how to create NuGet package and publish it using nuget.exe.
 * Right click on project and select "Properties".
 
 ![The flow of packages between creators, hosts, and consumers](/images/properties.png)
-<center>Properties</center>
+Properties
 
 Set the following basic values on the property values
 
@@ -56,8 +56,9 @@ A Microsoft account is needed to be able to publish your package on nuget.org.
 You can freely create one [here](https://account.microsoft.com/).
 
 ![Upload new package](/images/upload.png)
-<center>Upload new package</center>
+Upload new package
 
 ### Consuming the package from NuGet Manager
 
 In the NuGet package manager, simply search for the NuGet package name. Click install.
+
